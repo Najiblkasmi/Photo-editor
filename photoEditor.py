@@ -2,8 +2,8 @@ from PIL import Image, ImageFilter, ImageEnhance
 import os
 
 # Update the source and target paths to the correct absolute paths on your system
-path = r'C:\Users\najib\Desktop\Python projects\py\imgs'
-pathOut = r'C:\Users\najib\Desktop\Python projects\py\editedImgs'
+path = r'C:\'
+pathOut = r'C:\'
 
 # Create the target directory if it doesn't exist
 if not os.path.exists(pathOut):
